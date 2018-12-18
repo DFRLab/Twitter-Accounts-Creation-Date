@@ -4,7 +4,7 @@ A simple Jupyter notebook by @DFRLab used primarily for determining account crea
 This notebook can be useful for looking whether the accounts were created on the same date or time. 
 
 
-**Tutorial on how to run the program**
+**Tutorial on how to run the program:**
 
 1. Download the file and unzip it. 
 
@@ -20,7 +20,7 @@ Please click on the folder where you downloaded Twitter-Accounts-Creation-Date f
 
 6. Add your Twitter Access Tokens and Keys. If you don't have one, here's the link to get your tokens: https://developer.twitter.com/en/apps
 
-7. To run an individual cell, click Shift + Enter. 
+Note: To run an individual cell, click Shift + Enter. 
 
 
 
