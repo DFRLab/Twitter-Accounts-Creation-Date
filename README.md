@@ -1,7 +1,7 @@
 # Twitter-Accounts-Creation-Date
 
 A simple Jupyter notebook by @DFRLab used primarily for determining account creation date of multiple Twitter handles.
-This notebook can be useful in investigating bots or troll accounts, by looking when the accounts were created.  
+This notebook can be useful for looking whether the accounts were created on the same date or time. 
 
 
 **Tutorial**
