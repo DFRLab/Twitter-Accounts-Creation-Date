@@ -19,9 +19,7 @@ Please click on the folder where you downloaded Twitter-Accounts-Creation-Date f
 
 6. Add your Twitter Access Tokens and Keys. If you don't have one, here's the link to get your tokens: https://developer.twitter.com/en/apps
 
-Note: To run an individual cell, click Shift + Enter. 
-
-####For detailed instructions the Notebook###
+Note: For more instructions read the Notebook (.ipynb file).
 
 
 
