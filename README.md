@@ -3,7 +3,6 @@
 A simple Jupyter notebook by @DFRLab used primarily for determining account creation date of multiple Twitter handles.
 This notebook can be useful for looking whether the accounts were created on the same date or time. 
 
-
 **Tutorial on how to run the program:**
 
 1. Download the file and unzip it. 
