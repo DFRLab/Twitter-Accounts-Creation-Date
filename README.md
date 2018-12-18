@@ -21,5 +21,7 @@ Please click on the folder where you downloaded Twitter-Accounts-Creation-Date f
 
 Note: To run an individual cell, click Shift + Enter. 
 
+####For detailed instructions the Notebook###
+
 
 
